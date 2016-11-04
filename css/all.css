@@ -69,12 +69,12 @@ button {
  
 button:after {
   content: "";
-  width: 50px; 
-  height: 50px;
+  width: 1.76em; 
+  height: 1.76em;
   background-color: black;
   position: absolute;
-  top: 10px;
-  right: -25px;
+  top: .39em;
+  right: -.9em;
   transform: rotate(45deg);
 }
   
